@@ -2,7 +2,7 @@
 
 Auto-maintained catalog of all Claude Code skills and active projects for **andrefenti**.
 
-> ⚡ This file is automatically updated by the `catalog` skill whenever a skill is added, removed, or modified.
+> ⚡ This file is automatically updated whenever a skill is added, removed, or modified.
 
 ---
 
@@ -12,19 +12,18 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 |---------|------|------------|-------|------|
 | **Helvora** | [andrefenti/helvora](https://github.com/andrefenti/helvora) | Private | React + TypeScript + Vite + Supabase + Stripe + WAPI | [helvora.store](https://helvora.store) |
 | **TacBox** | [andrefenti/TacBox](https://github.com/andrefenti/TacBox) | Private | React + Vite | — |
+| **claude-catalog** | [andrefenti/claude-catalog](https://github.com/andrefenti/claude-catalog) | Public | Markdown | — |
 | **ERC-20** | [andrefenti/ERC-20](https://github.com/andrefenti/ERC-20) | Public | Solidity | — |
 | **ERCs** | [andrefenti/ERCs](https://github.com/andrefenti/ERCs) | Public | Solidity | — |
 | **TestBlockchain-ConsenSysMesh** | [andrefenti/TestBlockchain-ConsenSysMesh-local_ethereum_network](https://github.com/andrefenti/TestBlockchain-ConsenSysMesh-local_ethereum_network) | Public | Ethereum | — |
-| **TestBlockchain-f-o-a-m** | [andrefenti/TestBlockchain-f-o-a-m-cliquebait](https://github.com/andrefenti/TestBlockchain-f-o-a-m-cliquebait) | Public | Ethereum | — |
 | **EVM-Pyethapp** | [andrefenti/EVM-Pyethapp](https://github.com/andrefenti/EVM-Pyethapp) | Public | Python | — |
 | **EVM-Ethereumjs-lib** | [andrefenti/EVM-Ethereumjs-lib](https://github.com/andrefenti/EVM-Ethereumjs-lib) | Public | JavaScript | — |
 | **EVM-Cpp-ethereum** | [andrefenti/EVM-Cpp-ethereum](https://github.com/andrefenti/EVM-Cpp-ethereum) | Public | C++ | — |
 | **Free-APIs** | [andrefenti/Free-APIs](https://github.com/andrefenti/Free-APIs) | Public | — | — |
-| **claude-catalog** | [andrefenti/claude-catalog](https://github.com/andrefenti/claude-catalog) | Public | Markdown | — |
 
 ---
 
-## Skills (51 installed)
+## Skills (50 installed)
 
 ### 🔐 Security
 
@@ -37,7 +36,7 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 | `defesa-prompt-injection` | Defesa contra Prompt Injection para Agentes LLM — guardrails, pipeline anti-injection e tool gating |
 | `gestor-segredos` | Gestor de Segredos, Chaves e Configuração para produção — inventário, rotação e least privilege |
 | `pentest-advisor` | Expert penetration testing advisor for authorized security assessments |
-| `security` | Identificar e corrigir vulnerabilidades de segurança em aplicações web, APIs, bancos de dados e infraestrutura |
+| `security` | Identificar e corrigir vulnerabilidades de segurança em aplicações web, APIs e infraestrutura |
 | `sqli-test` | Generate SQL injection test payloads for authorized security testing |
 | `webshell-detect` | Help detect and analyze web shells using reference samples for defensive security |
 | `wordlist` | Access and filter SecLists wordlists for authorized security testing |
@@ -75,7 +74,6 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 | Skill | Description |
 |-------|-------------|
 | `arquiteto-openai` | Arquiteto OpenAI para Produção — arquitetura, segurança, custos e structured outputs |
-| `defesa-prompt-injection` | Defesa contra Prompt Injection para Agentes LLM |
 | `motor-conteudo` | Motor de Conteúdo e Distribuição — produção multi-canal com governança, qualidade e acessibilidade |
 | `n8n` | Criar, depurar e otimizar workflows no n8n |
 | `otimizador-tokens` | Otimizador de Tokens e Contexto — reduz custo e latência de LLMs mantendo qualidade |
@@ -129,18 +127,4 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 
 ---
 
-## Agents
-
-| Agent | Location |
-|-------|----------|
-| Security agents | `~/.claude/skills/agents/` |
-
-## Commands
-
-| Command | Location |
-|---------|----------|
-| Custom commands | `~/.claude/skills/commands/` |
-
----
-
-*Last updated: 2026-03-28 — maintained by the `catalog` skill*
+*Last updated: 2026-03-28 — maintained automatically by the `catalog` skill*
