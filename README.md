@@ -103,7 +103,7 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 
 | Skill | Description |
 |-------|-------------|
-| `arquiteto-obsidian` | Arquiteto Obsidian — segundo cérebro, estrutura de vault, links e retrieval eficiente |
+| `arquiteto-obsidian` | Obsidian-as-brain hub — vault is the central source of truth connected to Claude Code, the Awawa bridge, Helvora, and memory |
 | `cost-reducer` | Analisar e reduzir custos de infraestrutura, serviços e código |
 | `create-skill` | Criar novas skills para o Claude Code que sejam úteis e bem documentadas |
 | `game-development` | Engenheiro de Game Development — arquitetura, game loop, sistemas e pipeline de conteúdo |
