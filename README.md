@@ -23,7 +23,7 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 
 ---
 
-## Skills (59 installed)
+## Skills (60 installed)
 
 ### 🔐 Security
 
