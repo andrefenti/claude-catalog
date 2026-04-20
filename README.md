@@ -10,14 +10,20 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 
 | Project | Repo | Visibility | Stack | Live |
 |---------|------|------------|-------|------|
-| **helvora** | [andrefenti/helvora](https://github.com/andrefenti/helvora) | Private | React + TypeScript + Vite + Supabase + Stripe + WAPI | [helvora.store](https://helvora.store) |
-| **tacbox** | [andrefenti/tacbox](https://github.com/andrefenti/tacbox) | Private | React + Vite | — |
+| **Helvora** | [andrefenti/helvora](https://github.com/andrefenti/helvora) | Private | React + TypeScript + Vite + Supabase + Stripe + WAPI | [helvora.store](https://helvora.store) |
+| **TacBox** | [andrefenti/TacBox](https://github.com/andrefenti/TacBox) | Private | React + Vite | — |
 | **claude-catalog** | [andrefenti/claude-catalog](https://github.com/andrefenti/claude-catalog) | Public | Markdown | — |
-| **bootstrap** | [andrefenti/bootstrap](https://github.com/andrefenti/bootstrap) | Public | Markdown | — |
+| **ERC-20** | [andrefenti/ERC-20](https://github.com/andrefenti/ERC-20) | Public | Solidity | — |
+| **ERCs** | [andrefenti/ERCs](https://github.com/andrefenti/ERCs) | Public | Solidity | — |
+| **TestBlockchain-ConsenSysMesh** | [andrefenti/TestBlockchain-ConsenSysMesh-local_ethereum_network](https://github.com/andrefenti/TestBlockchain-ConsenSysMesh-local_ethereum_network) | Public | Ethereum | — |
+| **EVM-Pyethapp** | [andrefenti/EVM-Pyethapp](https://github.com/andrefenti/EVM-Pyethapp) | Public | Python | — |
+| **EVM-Ethereumjs-lib** | [andrefenti/EVM-Ethereumjs-lib](https://github.com/andrefenti/EVM-Ethereumjs-lib) | Public | JavaScript | — |
+| **EVM-Cpp-ethereum** | [andrefenti/EVM-Cpp-ethereum](https://github.com/andrefenti/EVM-Cpp-ethereum) | Public | C++ | — |
+| **Free-APIs** | [andrefenti/Free-APIs](https://github.com/andrefenti/Free-APIs) | Public | — | — |
 
 ---
 
-## Skills (53 installed)
+## Skills (58 installed)
 
 ### 🔐 Security
 
@@ -118,8 +124,7 @@ Auto-maintained catalog of all Claude Code skills and active projects for **andr
 |-------|-------------|
 | `catalog` | Sync this catalog to GitHub whenever skills or projects change |
 | `startup` | Sync with GitHub and ask which project to work on at session start |
-| `bootstrap` | Reinstall manual — see [andrefenti/bootstrap](https://github.com/andrefenti/bootstrap) |
 
 ---
 
-*Last updated: 2026-03-28 (cleaned unused repos, renamed tacbox, added bootstrap) — maintained automatically by the `catalog` skill*
+*Last updated: 2026-04-20 — maintained automatically by the `catalog` skill*
